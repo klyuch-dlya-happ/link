@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klyuch-dlya-happ.github.io/link/sitemap.xml
